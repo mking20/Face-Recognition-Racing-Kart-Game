@@ -1,4 +1,4 @@
-# Face-Recognition-Racing-Kart-Game
+# Face Recognition Racing Kart Game
 
 This project recognize the face movements in order to play a racing video game. It is divided into two main sections:
 
